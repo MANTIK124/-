@@ -15,9 +15,9 @@ questions_list.append(Question('Государственный язык Браз
 questions_list.append(Question('Какого цвета нет на флаге России?', 'Зеленый', 'Синий', 'Белый', 'Красный'))
 questions_list.append(Question('Национальная хижина якутов', 'Ураса', 'Юрта', 'Иглу', 'Хата'))
 questions_list.append(Question('Кто изображен на флаге Уфы?', 'Куница', 'Ласка', 'Хорек', 'Росомаха'))
-questions_list.append(Question('Сколько народов проживает на территории Дагестана?', 'Более тридцати', 'Арбуз','ф','Снигирь'))
 questions_list.append(Question('Сколько народов проживает на территории Дагестана?', 'Более тридцати', 'Пятнадцать', 'Двадцать шесть', 'Один'))
 questions_list.append(Question('Как зовут Деда Мороза во Франции', 'Пэр Ноэль', 'Вайнахтсман', 'Шань Дань Лаожен', 'Санта Клаус'))
+questions_list.append(Question(''))
 
 app = QApplication([])
 window = QWidget()
